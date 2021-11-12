@@ -33,3 +33,5 @@ Full CN and EN versions are incomplete in terms of story
 Undertale scene not translated / missing in CN version 
 
 F-16 dogfight scene not implemented in EN version
+
+Many pieces of music are removed, note that the game will not function properly until this music is added manually
