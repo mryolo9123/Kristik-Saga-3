@@ -11,3 +11,11 @@ This includes all the assets (sprites, scripts, audio, etc) as well as installer
 
 # What's in the releases?
 The release only includes the installer.
+
+# Bugs
+Issue where after the Korean scene, the background music continues to play even during scenes where they required to be stopped
+
+Transition issues when scene is clicked through too fast transitions freeze or never play 
+
+Aspect ratio issue where background images don't fit the full resolution of the screen, causing alpha to appear behind it 
+
