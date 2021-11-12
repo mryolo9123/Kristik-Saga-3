@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 3814, in script
+    jump dontcare
+ScriptError: could not find label 'dontcare'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 3814, in script
+    jump dontcare
+  File "E:\Other Stuff\renpy-7.3.5-sdk\renpy\ast.py", line 1697, in execute
+    rv = renpy.game.script.lookup(target)
+  File "E:\Other Stuff\renpy-7.3.5-sdk\renpy\script.py", line 898, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'dontcare'.
+
+Windows-8-6.2.9200
+Ren'Py 7.3.5.606
+Kristik Saga 3 v0.28 Debug/Chinese Development Demo Build
+Sun Sep 13 09:38:37 2020

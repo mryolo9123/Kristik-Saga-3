@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 57: expected 'image_name_component' not found.
+    image menu = Movie(size=(1280,720), channel="movie", play="movies/Untitled.ogv")
+         ^
+
+File "game/script.rpy", line 118: expected 'image_name_component' not found.
+    show menu
+        ^
+
+File "game/script.rpy", line 120: expected 'image_name_component' not found.
+    hide menu
+        ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Jul 20 13:25:20 2020

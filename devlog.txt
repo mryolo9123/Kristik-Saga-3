@@ -1,0 +1,31 @@
+[7/21/2020]
+################################################
+-------------------------------------------------------------------
+---------------Includes log info before 7/21---------------
+-------------------------------------------------------------------
+################################################
+* Added Flowchart
+* Half-completed adding Background music
+* Changed color from pink to blue
+* Made a short animation for the title screen
+* Moved buttons to fit new title screen
+* Changed certain UI elements such as save UI and confirm screens
+* Added splash screen
+* Added Button sounds
+* Changed About section 
+* Changed quick menu buttons to fit new style
+* Further changes to main storyline
+* Added 4 new girls (Hannah Schröder, ちよこ, 袁昌英, and 冼东妹)
+* New MISC characters (Hung Phan, Mahneet Sidhu, etc...)
+* Added persistent data so certain information isnt lost
+
+:::Comments:::
+Let me just say that adding the flowchart was so fucking time consuming. It required adding a persistent variable that would
+load before the game started. Afterwards, i had to create the UI (which in itself was frustrating as certain elements like the scrollbar
+refused to work but i eventually got it working.) Not only this, but i had to make new _idle and _hover button types for the flowchart.
+That took up quite a bit of time. But also the scene jumping feature was pretty annoying. ren'py doesnt have a proper jump feature,
+so i have to use the Start() tag and also make sure the window and quick menu is shown, the character(s) in the scene is shown, and
+make sure the background is correct as the Start() tag simply just changes the dialogue in the textbox but doesnt actually jump to the
+scene (as that would destroy the workflow.)
+
+Overall, this was pretty damn frustrating but also vey rewarding when i got it working. I think im gonna take a nap... my brain hurts...
