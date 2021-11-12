@@ -1,11 +1,1 @@
-		END USER LICENSE AGREEMENT
-
-1. GRANT OF LICENSE. This EULA grants you the right to use the Software only for its intended purpose. You may not sell, resell, license, rent, lease, lend, or otherwise transfer for value, the use of or installation of the Software. You may not redistribute the Software in any form.
-
-2. RESERVATION OF RIGHTS. All title and copyrights in and to the Software, and any copies of the Software, are owned by KrisCorp, LLC. and/or its affiliates. All rights not expressly granted are reserved by KrisCorp, LLC. and/or its affiliates. In particular, this EULA does not grant you any rights in connection with any trademarks or service marks of KrisCorp and/or its affiliates. Use of the Software for any purpose other than expressly permitted in this EULA is prohibited, and may result in severe civil and criminal penalties.
-
-3. TERMINATION. Without prejudice to any other rights, KrisCorp, LLC. may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the Software and cease further access to online content related to any KrisCorp published software.
-
-4. The User warrants that they own or have the right and license (to include artistic license or right-of-free-use) to any and all images uploaded to the Hung's Hobo Home discord server. The User agrees to indemnify KrisCorp against any loss or damage (including consequential loss) that may result from any information uploaded to the system, including but not limited to copyright breach. KrisCorp reserves the right to withdraw from public availability any user created content that KrisCorp, in it’s sole opinion, believes may violate the rights of a lawful copyright holder.
-
-5. SPECIFIC USE. KrisCorp, LLC. and/or its affiliates make no representations about the suitability of the software for any purpose. This software is provided by the author “as is” and any express or implied warranties, including, but not limited to, the implied warranties or merchantability and fitness for a particular purpose are disclaimed. In no event shall the author be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, not limited to loss of use, data, or time, profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of use of this software, even if advised of the possibility of such damage.
+EULA placeholder
