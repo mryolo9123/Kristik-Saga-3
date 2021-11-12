@@ -15,7 +15,21 @@ The release only includes the installer.
 # Bugs
 Issue where after the Korean scene, the background music continues to play even during scenes where they required to be stopped
 
-Transition issues when scene is clicked through too fast transitions freeze or never play 
+Transition issues when scene is clicked through too fast; transitions freeze or never play 
 
 Aspect ratio issue where background images don't fit the full resolution of the screen, causing alpha to appear behind it 
 
+Certain introduction scenes contain no music
+
+# Missing content
+Full and demo version of the English release is not using the latest version of the User Interface (Chinese demo is using the latest version)
+
+Demo versions of CN and EN versions do not have flowcharts
+
+Certain scenes in the CN version are not translated fully
+
+Full CN and EN versions are incomplete in terms of story
+
+Undertale scene not translated / missing in CN version 
+
+F-16 dogfight scene not implemented in EN version
