@@ -35,3 +35,6 @@ Undertale scene not translated / missing in CN version
 F-16 dogfight scene not implemented in EN version
 
 Many pieces of music are removed, note that the game will not function properly until this music is added manually
+
+# Notes
+I will not work on this version anymore. Instead, I have completely remade the game entirely in a "version 2" of sorts and will post a full installer to that version once it releases. (It won't be on GitHub)
